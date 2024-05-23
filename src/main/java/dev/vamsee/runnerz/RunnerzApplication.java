@@ -12,6 +12,7 @@ public class RunnerzApplication {
 	//private static final Logger log = (Logger) LoggerFactory.getLogger(RunnerzApplication.class);
 	public static void main(String[] args) {
 		SpringApplication.run(RunnerzApplication.class, args);
+		// testing github commit
 
 
     }
